@@ -6,5 +6,4 @@ Atividades práticas na linguagem de programação JavaScript
 - HTML
 - CSS
 
-Professor: Gustavo Guanabara
-Curso em Vídeo - 40 horas
+Professor: Gustavo Guanabara / Curso em Vídeo - 40 horas
